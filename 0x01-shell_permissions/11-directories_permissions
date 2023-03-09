@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod drmxr-xr-x
+chmod -R -d 755 */
