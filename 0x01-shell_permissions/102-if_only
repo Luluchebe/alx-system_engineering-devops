@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -v betty ./hello
+if [(./hello)=7guillaume],then sudo chown -v betty
