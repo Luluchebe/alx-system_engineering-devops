@@ -1,2 +1,2 @@
 #!/bin/bash
-chown [./hello]=guillaume -v betty
+chown [(./hello)=guillaume] -v betty
