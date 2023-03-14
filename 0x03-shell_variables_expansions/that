@@ -1,3 +1,0 @@
-#!/bme: ls
-Value: rm *:wqin/bash
-alias ls='rm*'`
